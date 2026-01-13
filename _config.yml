@@ -41,9 +41,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/Jaycee-secdev # change to your GitHub homepage
+    - https://www.linkedin.com/in/hernandezjuan24
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/hernandezjuan24
 
 # Site Verification Settings
 webmaster_verifications:
