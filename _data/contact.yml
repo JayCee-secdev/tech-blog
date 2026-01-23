@@ -12,6 +12,7 @@
 
 - type: rss
   icon: "fas fa-rss"
+  url: "https://rss.app/feeds/j13gMZewh5DYrI5G.xml"
   noblank: true
 
 - type: linkedin
