@@ -1,9 +1,10 @@
 ---
 title: "Hello World. Welcome to my blog!"
 date: 2026-01-14 20:50:00 -0500
+last_modified_at: 2026-01-22 23:30:00 -0500
 categories: [Personal Experience, Introduction]
 tags: [hello-world, community, software-development, cybersecurity]
-description: "An introduction to my mission: transmitting knowledge and overcoming technical obstacles together."
+description: "An introduction to my my blog's purpose: sharing knowledge and overcoming obstacles together!"
 ---
 
 **Hello World!**
