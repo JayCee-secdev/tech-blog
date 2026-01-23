@@ -5,6 +5,8 @@ order: 4
 layout: page
 title: About
 permalink: /about/
+image:
+    path: /assets/img/personal_pic.jpeg
 ---
 
 ## Hi, I'm Juan Hernandez 👋
