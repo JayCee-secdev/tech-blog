@@ -15,16 +15,16 @@ I started my Security+ journey in mid-2025. While I was excited to earn my first
 ## Define your strategy
 When I started preparing for Security+, I had very surface level knowledge of cybersecurity (and this is being very generous), I knew basics of networking and had a fair share of Operating Systems practice, but thats all, and coming from an SE background my cyber specific expertise was very low. So, from the start I faced one of the biggest challenges: Knowing where to start. There were **so many sources**, so many Youtube channels telling me to do this or that, and in the end I made a lot of changes throughout my preparation (too many if I'm being honest). Therefore, I would like to give you some of the **most reliable (in my opinion) study sources**:
 
-    1. **[Professor Messer](https://www.youtube.com/@professormesser)**
+    1. [Professor Messer](https://www.youtube.com/@professormesser)
     I could not thank this man more, his videos are the gold standard for following the exam objectives exactly. And his live study groups are great to answer any specific doubts.
 
-    2. **[Dion Training Practice Exams](https://www.udemy.com/user/jason-dion/)**
+    2. [Dion Training Practice Exams](https://www.udemy.com/user/jason-dion/)
     Best for simulating the actual exam environment and tricky wording. Take these as serious as you can to emulate the real stuff!
 
-    3. **[PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos)**:
+    3. [PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos)
     As a visual learner myself, their videos are the best to understand complex networking concepts.
 
-    4. **[Jeremy's IT Lab Packet Tracer Labs](https://www.youtube.com/watch?v=XgcGcrLKu1A&list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)**
+    4. [Jeremy's IT Lab Packet Tracer Labs](https://www.youtube.com/watch?v=XgcGcrLKu1A&list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)
     Coming from a Software Engineering background, I found that actually 'building' the networks in these labs helped the security concepts click much faster than just reading about them.
 
 ## It's all about patience
