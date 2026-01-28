@@ -1,6 +1,7 @@
 ---
 title: "How I got my Security+ certificate and didn't die in the process"
 date: 2026-01-28 16:54:00 -0500
+last_modified_at: 2026-01-28 17:26:00 -0500
 categories: [Certifications, Security+]
 tags: [comptia, cybersecurity, career-journey]
 description: "Tips on preparing for your CompTIA Security+ certification"
@@ -15,17 +16,17 @@ I started my Security+ journey in mid-2025. While I was excited to earn my first
 ## Define your strategy
 When I started preparing for Security+, I had very surface level knowledge of cybersecurity (and this is being very generous), I knew basics of networking and had a fair share of Operating Systems practice, but thats all, and coming from an SE background my cyber specific expertise was very low. So, from the start I faced one of the biggest challenges: Knowing where to start. There were **so many sources**, so many Youtube channels telling me to do this or that, and in the end I made a lot of changes throughout my preparation (too many if I'm being honest). Therefore, I would like to give you some of the **most reliable (in my opinion) study sources**:
 
-    1. [Professor Messer](https://www.youtube.com/@professormesser)
-    I could not thank this man more, his videos are the gold standard for following the exam objectives exactly. And his live study groups are great to answer any specific doubts.
+1. **[Professor Messer](https://www.youtube.com/@professormesser)**
+I could not thank this man more, his videos are the gold standard for following the exam objectives exactly. And his live study groups are great to answer any specific doubts.
 
-    2. [Dion Training Practice Exams](https://www.udemy.com/user/jason-dion/)
-    Best for simulating the actual exam environment and tricky wording. Take these as serious as you can to emulate the real stuff!
+2. **[Dion Training Practice Exams](https://www.udemy.com/user/jason-dion/)**
+Best for simulating the actual exam environment and tricky wording. Take these as serious as you can to emulate the real stuff!
 
-    3. [PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos)
-    As a visual learner myself, their videos are the best to understand complex networking concepts.
+3. **[PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos)**
+As a visual learner myself, their videos are the best to understand complex networking concepts.
 
-    4. [Jeremy's IT Lab Packet Tracer Labs](https://www.youtube.com/watch?v=XgcGcrLKu1A&list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)
-    Coming from a Software Engineering background, I found that actually 'building' the networks in these labs helped the security concepts click much faster than just reading about them.
+4. **[Jeremy's IT Lab Packet Tracer Labs](https://www.youtube.com/watch?v=XgcGcrLKu1A&list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)**
+Coming from a Software Engineering background, I found that actually 'building' the networks in these labs helped the security concepts click much faster than just reading about them.
 
 ## It's all about patience
 One of the most difficult parts of getting your Security+ certification is the fact that all your preparation is self-paced, you are in charge of the amount of time dedicated to studying, and getting frustrated with "not advancing enough" happens a lot when learning by yourself. You have to understand that Security+ is not a sprint, it is a marathon. Setting deadlines, having an expected date is ok, but to really see results you will need to rely on consistency rather than occasional marathon study sessions. 
