@@ -10,7 +10,7 @@ image:
 ---
 
 I started my Security+ journey in mid-2025. While I was excited to earn my first security certification, I didn't realize how much of a challenge lay ahead. I navigated through high and lows until the day of the examination arrived, and I couldn't be more nervous. Thankfully, all the months of hard work and lots of studying paid off. However, there are some things that could have made my learning path more comfortable, and I want to share these tips with you.
-``
+
 **Tips on getting you Security+**
 ## Define your strategy
 When I started preparing for Security+, I had very surface level knowledge of cybersecurity (and this is being very generous), I knew basics of networking and had a fair share of Operating Systems practice, but thats all, and coming from an SE background my cyber specific expertise was very low. So, from the start I faced one of the biggest challenges: Knowing where to start. There were **so many sources**, so many Youtube channels telling me to do this or that, and in the end I made a lot of changes throughout my preparation (too many if I'm being honest). Therefore, I would like to give you some of the **most reliable (in my opinion) study sources**:
