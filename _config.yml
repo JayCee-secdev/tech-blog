@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Juan Hernandez # the main title
+title: Juan Hernandez - Tech Blog # the main title
 
 tagline: Secure Development & Cybersecurity Blog # it will display as the subtitle
 
